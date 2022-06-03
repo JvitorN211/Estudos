@@ -1,0 +1,13 @@
+# Anotações - Módulo 3 - JavaScript
+
+Curso 5 - Map, Filter e Reduce:
+
+#Map:
+	~O metódo Map retorna uma nova array sem modificar a original trazendo o resultado de uma função, executando em ordem de acordo com a array escolhida.
+
+Filter:
+	~O método Filter serve para filtrar determinados valores dentro de uma array, vale lembrar que ele não altera a array original, apenas cria uma nova. Em sua sintaxe, utiliza-se o ".include" que especifica que o valor dentro da array não necessariamente seja o valor exato escolhido, mas que o tenha incluido em sua unidade.
+
+Reduce:
+	~O metódo Redduce, altera o array original, ele o simplifica seja em uma string, ou número ou em outra array, o  ponto é que além de sintetizar ele retorna um valor diferente do que foi inserido antes.
+

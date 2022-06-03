@@ -1,0 +1,112 @@
+# Anotações - Módulo 3 - JavaScript
+
+Curso 1 - Coleções:
+
+Características Map:
+	- Uma coleção de arrays no formato [cave,valor];
+	- Pode iterado por um loop for...of
+
+
+Estrutura Map:
+
+const myMap = new Map()
+	undefined
+myMap
+
+Map(0) {}
+	[[Entries]]
+		no properties
+	size: 0
+	_proto_: Map
+		clear: f clear()
+		constructor: f Map()
+		delete: f delete()
+		entries: f entries()
+		forEach: f forEach()
+		get: f ()
+		has: f has()
+		keys: f keys()
+		set: f ()
+			size: (...)
+		values: f values()
+		Symbol(Symbol.iterator): f entries()
+			Symbol(Symbol.toStringTag): "Map"
+		get size: f size()
+		_proto_: Object
+
+
+Métodos: Adicionar, ler e deletar.
+* Exemplo:
+
+  Adicionar:
+	const myMap = new Map()
+	myMap.set('apple', 'fruit'); 
+	//Map(1) {"apple" => "fruit"}
+  O primeiro valor adicionado entre parênteses 'apple' é nossa chave e o valor o segundo, no caso 'fruit', logo "apple" é uma fruta.
+
+  Ler:
+  	MyMap.get(apple);
+  	// "fruit"
+  Neste processo o programa lê nossa chave 'apple' e retorna o valor que ela está guardando, no caso "fruit".
+
+  Deletar:
+  	MyMap.delete("apple")
+  	//true
+  Note que estamos deletando não nossa chave, mas sim o valor atribuído a ela, ou seja, a partir daqui a chave apple não nos retorna mais o valor "fruit".
+
+  Se fizermos o teste lendo novamente a chave...
+  	MyMap.get("apple")
+  	// undefined = indefinido
+
+
+* Qual é a diferença entre Map e Objeto?
+	~Características do Map:
+		- Maps podem ter chaves de qualquer tipo;
+		- Maps possuem a propriedade length;
+		- Maps são mais fáceis de iterar;
+		- Utilizado quando o valor das chaves é desconhecido;
+		- Os valores tem o mesmo tipo.
+
+
+Características Set:
+	- Sets são estruturas que armazenam apenas valores únicos.
+
+Estrutura Set:
+	
+	Set(8) {1, 2, 3, 4, 5, _}
+		[[Entries]]
+			0: 1
+			1: 2
+			2: 3
+			3: 4
+			4: 5
+			5: 6
+			6: 7
+			7: 8
+			size: (...)
+			_proto_: Set
+
+
+Metódos: Adicionar, consultar e deletar.
+
+	const mySet = new Set();
+
+	mySet.add(1);
+	mySet.add(5);
+
+	mySet.has(1);
+	// true
+
+	mySet.has(3);
+	// false
+
+	mySet.delete(5);
+
+
+* Qual é a diferença entre Set e Array?
+	~Características do Set:
+		- Possui valores únicos;
+		- Em vez da propriedade length, consulta-se o número de registros pela propriedade size;
+		- Não possui os métodos map, filter, reduce e etc.
+
+

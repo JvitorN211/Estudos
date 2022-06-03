@@ -1,0 +1,22 @@
+.body-princ {
+    text-align: center;
+}
+
+.square {
+    text-align: center;
+    width: 100px;
+    height: 120px;
+    background: #eee;
+    display: inline-block;
+    padding: 10px;
+    font-size: 60px;
+    margin: 5px;
+    cursor: pointer;
+    color: #eee;
+}
+
+.player, .winner {
+    font-size: 30px;
+    margin-top: 10px;
+}
+

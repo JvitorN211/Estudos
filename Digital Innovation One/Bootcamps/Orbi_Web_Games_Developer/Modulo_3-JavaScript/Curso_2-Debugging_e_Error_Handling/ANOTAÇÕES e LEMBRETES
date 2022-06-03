@@ -1,0 +1,38 @@
+# Anotações - Módulo 3 - JavaScript
+
+Curso 2 - Debugging e Error Handling:
+
+#Tipos de Erros
+
+ECMAScript Error:
+	~Erros que ocorrem em tempo de execução.
+
+	Composto por:
+		- Mensagem;
+		- Nome;
+		- Linha;
+		- Call Stack.
+
+
+DOMException:
+	~Erros relacionados ao Document Object Model (DOM).
+
+	É um erro ferentes à estrutura da sua árvore de elementos dentro da web.
+
+
+#Tratando Erros
+
+Diferença entre return e throw:
+	~O return vai retornar uma String (texto) que você adicionar como mensagem, enquanto que o throw vai mostrar não somente a String como também a especificação de um erro de fato.
+
+Try...Catch:
+	~É uma forma personalizada que pode servir para tratar erros, dentro do "Try" vamos colocar a função a ser testada enquanto que o "Catch" vai capturar o erro (caso houver) e mostrar para você da maneira que preferir, a forma de demonstração do error você quem decide através do "Catch".
+
+Finaly:
+	~É um código que será rodado após a verificação de erro, pode servir para especificar ou mostrar o erro em si, seguido da especificação do erro utilizando qualquer um dos métodos escolhido.
+
+	Exemplo de como deve ser utilizado:
+
+		finaly {
+			console.log('A String enviada foi: ' + string);
+		}

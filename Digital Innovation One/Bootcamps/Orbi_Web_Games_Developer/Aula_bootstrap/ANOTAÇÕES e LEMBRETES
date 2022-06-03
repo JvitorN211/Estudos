@@ -1,0 +1,38 @@
+#ANOTAÇÕES e LEMBRETES
+
+Aula 1: * Foi explicado sobre Framework Boostrap, que basicamente é uma folha de estilo ".css" que nos auxilia a 
+		deixar nosso site responsivo e nos poupa serviço com seus estilos já pré-definidos.
+		
+		* Criamos também nosso diretório, onde vamos salvar este projeto, nomeado como "aula_bootstrap".
+
+
+Aula 2: * Começamos a utilizar o Bootstrap na prática, criamos nossa home ".html" e começamos a construir a navbar 
+		do site.
+
+		* Também foi apresentado um site para buscar imagens gratuítas para utilizar nos sites chamado "Pexels".
+
+
+Aula 3: * Usamos o "https://htmlcolorcodes.com/" para colocar uma cor de fundo da navbar.
+
+		* Criamos também um "container" que pode ser usado como classe padrão que cria automaticamente um delimitador, centralizando o bloco para o centro da página, ou como usamos com a classe "fluid" que pega a página inteira verticalmente.
+
+		* Dentro do ".css" vimos que a diferença entre "margin" e "padding" é que enquanto que a "margi" cria uma margem ou separação de dois componentes de forma externa (externa visualmente falando, percebemos uma separação dos objetos dentro do site), o "padding" cria uma margem dentro do elemento, criando uma margem entre os lados do container e o conteúdo dele.
+
+
+Aula 4: * Utilizando as ID's separamos alguns tópicos do site, como o "home" e o "Quem Somos" e os linkamos de forma 
+		apropriada na navbar.
+
+		* Descobrimos a classe "rounded-circle" do Bootstrap que transforma a imagem num círculo por assim dizer, a partir daí temos a liberdade para ajustar o círculo através do width (largura) e heigth (altura).
+
+
+Aula 5: * Criamos um "selection" e dentro do container de "Parceiros" separamos colunas pelo Bootstrap.
+
+		* Vale lembrar:
+		sm = small = coluna pequena;
+		md = mediun = coluna média;
+		lg = large = coluna grande.
+		
+		Depois de especificar o tamanho das colunas seguimos com "-n" (n = número) que indicará o tamanho das divisões dentro da coluna, vale lembrar que o número máximo por linha é 12, ou seja, tudo que passar disso irá para a próxima linha.
+
+
+Aula 6: * Nesta aula foi apenas a finalização do projeto, não teve nada de novo ou específico, apenas a adição do "Footer" (rodapé).
