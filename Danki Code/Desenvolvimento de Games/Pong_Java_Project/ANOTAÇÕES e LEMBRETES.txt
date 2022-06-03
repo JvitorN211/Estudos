@@ -1,0 +1,13 @@
+# Anotações Úteis sobre o Git e GitHub
+
+git clone + "URL" (url de clonagem do github) = Serve para clonar um diretório do GitHub.
+
+cd + "pasta ou diretório" = Navegar pelo diretório.
+
+git status = Serve para verificar a situação do diretório. Útil para saber se a operação feita anteriormente deu certo.
+
+git add -A || git add . = Serve para adicionar os arquivos pendentes no controle de versão local. Um passo importante antes de comitar a atualização no Hub.
+
+git commit -m "Mensagem a respeito da atualização" = Serve para comitar a atualização.
+
+git push origin main = Serve para subir os comits para o GitHub.
