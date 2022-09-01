@@ -1,0 +1,8 @@
+C:\Users\jvito\source\repos\TrabalhandoComDatas\bin\Debug\TrabalhandoComDatas.exe.config
+C:\Users\jvito\source\repos\TrabalhandoComDatas\bin\Debug\TrabalhandoComDatas.exe
+C:\Users\jvito\source\repos\TrabalhandoComDatas\bin\Debug\TrabalhandoComDatas.pdb
+C:\Users\jvito\source\repos\TrabalhandoComDatas\obj\Debug\TrabalhandoComDatas.csproj.AssemblyReference.cache
+C:\Users\jvito\source\repos\TrabalhandoComDatas\obj\Debug\TrabalhandoComDatas.csproj.SuggestedBindingRedirects.cache
+C:\Users\jvito\source\repos\TrabalhandoComDatas\obj\Debug\TrabalhandoComDatas.csproj.CoreCompileInputs.cache
+C:\Users\jvito\source\repos\TrabalhandoComDatas\obj\Debug\TrabalhandoComDatas.exe
+C:\Users\jvito\source\repos\TrabalhandoComDatas\obj\Debug\TrabalhandoComDatas.pdb

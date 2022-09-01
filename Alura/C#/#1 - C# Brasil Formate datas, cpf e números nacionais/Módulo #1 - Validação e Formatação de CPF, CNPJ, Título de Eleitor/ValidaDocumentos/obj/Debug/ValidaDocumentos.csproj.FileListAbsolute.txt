@@ -1,0 +1,14 @@
+C:\Users\jvito\source\repos\ValidaDocumentos\bin\Debug\ValidaDocumentos.exe.config
+C:\Users\jvito\source\repos\ValidaDocumentos\bin\Debug\ValidaDocumentos.exe
+C:\Users\jvito\source\repos\ValidaDocumentos\bin\Debug\ValidaDocumentos.pdb
+C:\Users\jvito\source\repos\ValidaDocumentos\bin\Debug\Caelum.Stella.CSharp.dll
+C:\Users\jvito\source\repos\ValidaDocumentos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jvito\source\repos\ValidaDocumentos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jvito\source\repos\ValidaDocumentos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jvito\source\repos\ValidaDocumentos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jvito\source\repos\ValidaDocumentos\obj\Debug\ValidaDocumentos.csproj.AssemblyReference.cache
+C:\Users\jvito\source\repos\ValidaDocumentos\obj\Debug\ValidaDocumentos.csproj.SuggestedBindingRedirects.cache
+C:\Users\jvito\source\repos\ValidaDocumentos\obj\Debug\ValidaDocumentos.csproj.CoreCompileInputs.cache
+C:\Users\jvito\source\repos\ValidaDocumentos\obj\Debug\ValidaDocumentos.csproj.CopyComplete
+C:\Users\jvito\source\repos\ValidaDocumentos\obj\Debug\ValidaDocumentos.exe
+C:\Users\jvito\source\repos\ValidaDocumentos\obj\Debug\ValidaDocumentos.pdb

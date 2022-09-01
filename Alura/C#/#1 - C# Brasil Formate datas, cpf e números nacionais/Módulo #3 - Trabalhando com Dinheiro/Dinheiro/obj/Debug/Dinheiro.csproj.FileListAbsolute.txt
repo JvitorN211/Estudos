@@ -1,0 +1,14 @@
+C:\Users\jvito\source\repos\Dinheiro\bin\Debug\Dinheiro.exe.config
+C:\Users\jvito\source\repos\Dinheiro\bin\Debug\Dinheiro.exe
+C:\Users\jvito\source\repos\Dinheiro\bin\Debug\Dinheiro.pdb
+C:\Users\jvito\source\repos\Dinheiro\bin\Debug\Caelum.Stella.CSharp.dll
+C:\Users\jvito\source\repos\Dinheiro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jvito\source\repos\Dinheiro\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jvito\source\repos\Dinheiro\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jvito\source\repos\Dinheiro\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jvito\source\repos\Dinheiro\obj\Debug\Dinheiro.csproj.AssemblyReference.cache
+C:\Users\jvito\source\repos\Dinheiro\obj\Debug\Dinheiro.csproj.SuggestedBindingRedirects.cache
+C:\Users\jvito\source\repos\Dinheiro\obj\Debug\Dinheiro.csproj.CoreCompileInputs.cache
+C:\Users\jvito\source\repos\Dinheiro\obj\Debug\Dinheiro.csproj.CopyComplete
+C:\Users\jvito\source\repos\Dinheiro\obj\Debug\Dinheiro.exe
+C:\Users\jvito\source\repos\Dinheiro\obj\Debug\Dinheiro.pdb
